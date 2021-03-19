@@ -1,6 +1,18 @@
+div p {
+    color: green;
+}
+
+address {
+    font-size: 1.5em;
+}
+.dates {
+    font-weight: bold;
+}
+#job1, #job2 {
+    font-style: italic;
+}
 body {
-    font-family:Arial, Helvetica, sans-serif;
-    font-size: 18pt;
+    font:normal normal normal 18pt/19.8pt Arial, Helvetica, sans-serif;
 }
 table, tr, td {
     border: 1px solid red;
